@@ -45,11 +45,11 @@ handleDisconnect();
 
 // In-memory storage for votes (for simplicity)
 let votes = {
-    "KAYITESI. ": 0,
-    "CHARTINE. ": 0,
-    "EPIPHANIE. ": 0,
-    "HENRIETTE. ": 0,
-    "DAMARS. ": 0
+    "ALICE. ": 0,
+    "LEWIS. ": 0,
+    "UMUHOZA. ": 0,
+    "ANICK. ": 0,
+    "MARIA. ": 0
 };
 
 // In-memory storage for user data (for simplicity)
