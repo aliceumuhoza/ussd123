@@ -9,10 +9,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 // Database connection details
 const dbConfig = {
-    host: 'blloem4jmsy8naqsew4z-mysql.services.clever-cloud.com',
-    user: 'ul5maamhyr2gildd',
+    host: 'bmlhvv7x76r445vl2dod-mysql.services.clever-cloud.com',
+    user: 'ueclxblwh6we9vql',
     password: 'z6BJJ8BCbABBM2VOeqAb', // Replace with your MySQL password
-    database: 'blloem4jmsy8naqsew4z'
+    database: 'bmlhvv7x76r445vl2dod'
 };
 
 let db;
